@@ -355,6 +355,8 @@ Bias gradients are averaged across samples
 Most beginners use deep learning libraries without understanding what happens underneath.
 This project focuses on building intuition and mathematical clarity by implementing everything manually.
 
+Note: A TensorFlow implementation of the same model is also included purely for comparison, to highlight how deep learning frameworks automate the same forward and backward propagation implemented manually in NumPy. 
+
 🔜 Next Steps
 
 Extend to N-layer neural network
