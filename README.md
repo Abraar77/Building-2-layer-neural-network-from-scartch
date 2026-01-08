@@ -357,9 +357,7 @@ This project focuses on building intuition and mathematical clarity by implement
 
 Note: A TensorFlow implementation of the same model is also included purely for comparison, to highlight how deep learning frameworks automate the same forward and backward propagation implemented manually in NumPy. 
 
-🔜 Next Steps
-
-Extend to N-layer neural network
+ N-layer neural network has also been uploaded check my repos
 
 Improve initialization (Xavier / He)
 
